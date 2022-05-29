@@ -1,4 +1,0 @@
-﻿  Mission.c
-exam_01_01.obj : error LNK2005: main이(가) exam-01-02.obj에 이미 정의되어 있습니다.
-Mission.obj : error LNK2005: main이(가) exam-01-02.obj에 이미 정의되어 있습니다.
-C:\Users\최문석\Desktop\코딩공부\코딩(c언어)\workspace\day01\x64\Debug\day01.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
